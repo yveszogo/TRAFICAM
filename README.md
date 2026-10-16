@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Traficam
 
 Application mobile de signalement d'embouteillages (Cameroun), développée en Scrum (sprints de 2 semaines).
@@ -78,3 +79,7 @@ Variables d'environnement : `PORT` (3000), `DATA_FILE` (`backend/data/db.json`),
 
 
 
+=======
+# TRAFICAM
+Application mobile de consultation de l'état du trafic. M2/G6
+>>>>>>> e37a3d3edd822600b4e331e6c8ff57bc53db6247
